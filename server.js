@@ -12,7 +12,7 @@ const {
   getRolById,
   updateRol,
   deleteRol,
-} = require("./controllers/ROL.controllers");
+} = require("./controllers/rol.controllers");
 const { Usuario, Rol } = require("./models/tables");
 
 //Ejemplos de transacciones
